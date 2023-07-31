@@ -1,11 +1,9 @@
-export default function Nav({ links }) {
+export default function Navbar({ links }) {
   return (
     <nav>
       <div>
         <div>
-          <ul>
-            {links.map((link) => link)}
-          </ul>
+          <ul>{links.map((link) => link)}</ul>
         </div>
       </div>
     </nav>
