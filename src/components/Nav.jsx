@@ -6,20 +6,17 @@ export default function Nav() {
     <Navbar
       links={[
         <Link key={1} to="/">
-          Home
-        </Link>,
-        <Link key={2} to="/about">
           About Me
         </Link>,
-        <Link key={3} to="/contact">
+        <Link key={2} to="/contact">
           Contact
         </Link>,
-        <Link key={4} to="/projects">
+        <Link key={3} to="/projects">
           Portfolio
         </Link>,
-        <Link key={5} to="/resume">
+        <Link key={4} to="/resume">
           Resume
-        </Link>,
+        </Link>
       ]}
     />
   );
