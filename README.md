@@ -21,6 +21,7 @@ N/A
 Simply follow the link to the deployed application.
 
 Github Repository: https://github.com/brianlucla/React-Portfolio
+
 Deployed Application: 
 
 ![screenshot](./src/images/react-portfolio.jpg)
