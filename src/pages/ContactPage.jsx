@@ -22,7 +22,7 @@ function Form() {
 
     setName("");
     setEmail("");
-    setMessage("")
+    setMessage("");
   };
 
   return (
