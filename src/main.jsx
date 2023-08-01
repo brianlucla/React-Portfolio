@@ -2,7 +2,8 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
-// import 'bootstrap/dist/css/boostrap.min.css'
+import "bootstrap/dist/css/boostrap.min.css";
+import "bootstrap/dist/js/bootstrap.bundle.min";
 import './index.css'
 
 // pages for router to use
